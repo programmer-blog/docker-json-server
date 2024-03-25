@@ -1,0 +1,17 @@
+{
+    "posts": [
+        {
+            "title": "My Alternative Cool Post",
+            "author": "Test Author"
+        },
+        {
+            "title": "My Another Alternative Cool Post",
+            "author": "Test Author"
+        }
+    ],
+    "profile": {
+        "first_name": "Test",
+        "last_name": "Author",
+        "email": "test@example.com"
+    }
+}
